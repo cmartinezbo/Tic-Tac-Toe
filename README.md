@@ -14,9 +14,21 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
   
  <h2> How to play 🔍</h2>
  
-  - Players have to choose their figures.
+  - Players have to choose their figures, it does not matter capital letters.
+  
+      ```
+      Which one do you want? X or O?: o
+      or
+      Which one do you want? X or O?: X
+      ```
 
-  - Each player can choose the color of their figures.
+  - Each player can choose the color of their figures, it does not matter how do you type it. 
+  
+    
+      ```
+      Player 1, choose your color: red
+      Player 2, choose your color: MAGENTA
+      ```
  
   - Each place has its number ``(1-9)``, players have to type the place where they want to play.
 
@@ -33,3 +45,5 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
   - Download the game, run it in the terminal typing ``cd [folder where the game file is]``, then type ``py tictactoe.py`` and enjoy the game!
   
   - Follow me for future updates. 
+
+
