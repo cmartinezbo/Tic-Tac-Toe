@@ -50,6 +50,6 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
 
   - Then type ``py tictactoe.py`` and enjoy the game!
   
-  - Follow me and stay tuned for future updates. 
+  - Follow me and stay tuned to future updates. 
 
 
