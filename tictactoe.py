@@ -163,6 +163,8 @@ def game():
                 break
             match_dev(players[1], board)
             count += 1
+            if winnings() is True:
+                break
         else:
             match_dev(players[1], board)
             count += 1
@@ -173,6 +175,8 @@ def game():
                 break
             match_dev(players[0], board)
             count += 1
+            if winnings() is True:
+                break
 
 
 print(colored("WELCOME TO ULTIMATE TIC-TAC-TOE\n{:^31}".format("made by Cristian\n"), "green"))
