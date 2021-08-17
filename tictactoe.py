@@ -180,6 +180,7 @@ while True:
     game()
     repeat = input("Do you wanna exit? Yes/No: " + "\n").upper()
     if repeat == "Y" or repeat == "YES":
+        print(colored("\nFollow @xtianmb on GitHub for more projects like this!", "yellow"))
         break
     elif repeat == "N" or repeat == "NO":
         board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
