@@ -24,7 +24,7 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
  
  <h2> Instructions ⚠</h2>
  
-  - Make sure you have Python's updated, <a href="https://www.python.org/downloads/"> Get It here!</a>
+  - Make sure you have Python's latest version, <a href="https://www.python.org/downloads/"> Get It here!</a>
 
   - Download the game, run it in the terminal typing ``cd [folder where the game file is]``, then type ``py tictactoe.py`` and enjoy the game!
   
