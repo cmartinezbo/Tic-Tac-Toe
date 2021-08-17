@@ -18,15 +18,18 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
 
   - Each player can choose the color of their figures.
  
-  - Board: Each place has its number ``(1-9)``, players have to type the place where they want to play.
+  - Each place has its number ``(1-9)``, players have to type the place where they want to play.
+
+  - Board reference:
   
     <img src="https://gurmeet.net/Images/puzzles/fifteen_sum.gif" alt="Girl in a jacket" width="150" height="150">
  
  <h2> Instructions ⚠</h2>
  
+  - ¡You should use a terminal that supports supports colorized ASCII character for a better experience!
+  
   - Make sure you have Python's latest version, <a href="https://www.python.org/downloads/"> Get It here!</a>
 
   - Download the game, run it in the terminal typing ``cd [folder where the game file is]``, then type ``py tictactoe.py`` and enjoy the game!
   
   - Follow me for future updates. 
- 
