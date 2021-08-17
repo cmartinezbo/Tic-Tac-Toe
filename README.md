@@ -41,6 +41,8 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
   - ¡You should use a terminal that supports supports colorized ASCII character for a better experience! I suggest you<a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab"> this one.</a>
   
   - Make sure you have Python's latest version, <a href="https://www.python.org/downloads/"> Get It here!</a>
+ 
+  - Game requires ``pip install termcolor``
 
   - Download the game, run it in the terminal typing ``cd [folder where the game file is]``, then type ``py tictactoe.py`` and enjoy the game!
   
