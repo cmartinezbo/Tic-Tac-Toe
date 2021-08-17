@@ -42,7 +42,7 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
   
   - Make sure you have Python's latest version, <a href="https://www.python.org/downloads/"> Get It here!</a>
  
-  - Game requires <a href="https://pypi.org/project/termcolor/"> TermColor library></a> 
+  - Game requires <a href="https://pypi.org/project/termcolor/"> TermColor library.</a> 
   
       - Type ``pip install termcolor``
 
