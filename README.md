@@ -46,7 +46,7 @@ This is the classic game "Tic-tac-toe" in command line interface, made with Pyth
   
       - Type ``pip install termcolor``
 
-  - Download the game, run it in the terminal typing ``cd [folder where the game file is]``, then type ``py tictactoe.py`` and enjoy the game!
+  - Download the game here, run it in the terminal typing ``cd [folder where the game file is]``, then type ``py tictactoe.py`` and enjoy the game!
   
   - Follow me for future updates. 
 
